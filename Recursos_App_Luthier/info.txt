@@ -1,0 +1,12 @@
+D:\Imagen Secundaria\DRIVERS ECS SF20BA
+
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnNfLUJNVHdhR3FIeUJONlJfV3ZDSkdjZEZ4QXxBQ3Jtc0trcExLYkhjZnlwMWpFVTlZd3kxRGt3b3ZKWWE0Qk1EMVFMLXdYNk5kOFM1cmt1R1hkdG15OW52OUJ0U0hlSkptSnloMkJub1YzalAzbnBIU0Z0c0pWVHROcmlxRzg3NlRLenBicno4SW5MOVdyUnJ5MA&q=https%3A%2F%2Fdeveloper.android.com%2Fstudio%2Frun%2Foem-usb&v=q-H_OdHAPIE
+
+
+URL a descargar drivers:
+https://developer.android.com/studio/run/oem-usb
+
+Path de platform tools:
+C:\Users\eugenio\AppData\Local\Android\Sdk\platform-tools
+
+C:\Users\Ezequiel\AppData\Local\Android\Sdk\platform-tools
