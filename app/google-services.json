@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "918956552727",
+    "project_id": "app-luthier",
+    "storage_bucket": "app-luthier.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918956552727:android:84b4efbfe972d973b5a252",
+        "android_client_info": {
+          "package_name": "com.example.luthierapp_kotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzoWbAvfg2v0c2NuD4jLmc5EOQMDLNPd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
